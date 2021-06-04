@@ -1,0 +1,11 @@
+{
+    "model_name": "param_search",
+    "model_dir": "experiments",
+    "json_path": "",
+    "data_dir": "data",
+    "dataset": "Zone1",
+    "plot_dir": "",
+    "model_save_dir": "",
+    "gpu_ids":[0,1],
+    "job_dir":"7"
+}

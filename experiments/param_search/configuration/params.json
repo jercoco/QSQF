@@ -1,0 +1,18 @@
+{
+    "lag": 3,
+    "train_window": 108,
+    "test_window": 108,
+    "pred_start": 96,
+    "pred_steps": 12,
+    "lstm_input_size": 7,
+    "num_epochs": 100,
+    "batch_size": 256,
+    "lstm_layers": 2,
+    "lstm_hidden_dim": 40,
+    "lstm_dropout": 0,
+    "lr": 0.001,
+    "sample_times": 99,
+    "num_spline": 20,
+    "max_delay_epochs": 30,
+    "line": "Lspline"
+}
