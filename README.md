@@ -6,13 +6,13 @@ This implementation is mainly based on the TimeSeries repository which can be fo
 ## Authors:
 * **Ke Wang**(<w110k120@stu.xjtu.edu.cn>) - *Xi'an Jiaotong University, Xi'an* 
 
-* **Yao Zhang** - *Xi'an Jiaotong University, Xi'an* 
+* **Yao Zhang**(<yaozhang_ee@ieee.org>) - *Xi'an Jiaotong University, Xi'an* 
 
-* **Fan Lin** - *Xi'an Jiaotong University, Xi'an* 
+* **Fan Lin**(<lf1206@stu.xjtu.edu.cn>) - *Xi'an Jiaotong University, Xi'an* 
 
-* **Jianxue Wang** - *Xi'an Jiaotong University, Xi'an* 
+* **Jianxue Wang**(<jxwang@mail.xjtu.edu.cn>) - *Xi'an Jiaotong University, Xi'an* 
 
-* **Morun Zhu** - *Xi'an Jiaotong University, Xi'an* 
+* **Morun Zhu**(<1491974695@qq.com>) - *Xi'an Jiaotong University, Xi'an* 
 
 ## To run:
 
@@ -22,3 +22,4 @@ This implementation is mainly based on the TimeSeries repository which can be fo
     python search_params.py
    ```
 
+## Results
