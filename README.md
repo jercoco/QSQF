@@ -28,7 +28,7 @@ We propose a non-parametric and flexible method for probabilistic wind power for
 ## Results
 The main results of four QSQF models for reliabilty, sharpness and CRPS are listed in the following table.
 | Criterion | QSQF-A | QSQF-B | QSQF-AB | QSQF-C |
-| --------- | ------ | ------ | ------- | ------ |
+| :-------: | :----: | :----: | :-----: | :----: |
 | MRAE      | 0.0401 | 0.0506 | 0.0397  | 0.0286 |
 | NAPS      | 0.3423 | 0.3530 | 0.3577  | 0.3698 |
 | CRPS      | 0.0811 | 0.0832 | 0.0868  | 0.0764 |
