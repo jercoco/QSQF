@@ -1,4 +1,4 @@
-# QSQF
+# Nonparametric Probabilistic Forecasting for Wind Power Generation using Quadratic Spline Quantile Function and Autoregressive Recurrent Neural Network(QSQF)
 This is an implementation of the paper "Nonparametric Probabilistic Forecasting for Wind Power Generation using Quadratic Spline Quantile Function and Autoregressive Recurrent Neural Network".
 
 This implementation is mainly based on the [TimeSeries repository](https://github.com/zhykoties/TimeSeries). We deeply thank to the work by Yunkai Zhang, Qiao Jiang and Xueying Ma. We also thank to [GEFCom2014](https://www.sciencedirect.com/science/article/abs/pii/S0169207016000133#ec000005) to provide open source data.
